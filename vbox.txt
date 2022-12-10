@@ -1,2 +1,2 @@
-{"version":"5","link":"https://app.box.com/s/oo6rny9i033hebvy0i2v0g2itrgeevpo","title":"V-Box Version (5.0)မှာတော့ Videoများကို V-Box ဆော့ဝဲလ်ထဲတွင် ကြည့်နိုင်ခြင်း ဒေါင်းနိုင်ခြင်းများထည့်သွင်းပေးထားပါတယ်"}
+{"version":"6","link":"https://app.box.com/s/l6bydnkxtbu1appamativttkz06exhe6","title":"V-Box Version (6.0)မှာတော့ ဖုန်းဘေကံစမ်းမဲများကိုထည့်သွင်းပေးထားပါသည် အမြန်ဆုံးပါ၀င်ကံစမ်းလိုက်ပါ"}
 
