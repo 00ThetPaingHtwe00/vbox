@@ -1,2 +1,2 @@
-{"version":"6","link":"https://app.box.com/s/l6bydnkxtbu1appamativttkz06exhe6","title":"V-Box Version (6.0)မှာတော့ ဖုန်းဘေကံစမ်းမဲများကိုထည့်သွင်းပေးထားပါသည် အမြန်ဆုံးပါ၀င်ကံစမ်းလိုက်ပါ"}
+{"version":"7","link":"https://app.box.com/s/qrfpmpupfk279hqax6mhrkroc4jia8qj","title":"V-Box Version (7.0) UI Change"}
 
