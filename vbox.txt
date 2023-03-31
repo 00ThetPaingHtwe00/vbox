@@ -1,2 +1,2 @@
-{"version":"7","link":"https://app.box.com/s/qrfpmpupfk279hqax6mhrkroc4jia8qj","title":"V-Box Version (7.0) UI Change"}
+{"version":"8","link":"https://apkuploads.com/3jt/V-Box 8.0.apk","title":"V-Box Version (8.0) UI Change"}
 
