@@ -1,1 +1,1 @@
-{"version":"2","link":"https://www.mediafire.com/file/328yjg4r4qde0td/V-Box_8.0.apk/file","title":"V-Box Version (8.0) UI Change"}
+{"version":"1","link":"https://www.mediafire.com/file/328yjg4r4qde0td/V-Box_8.0.apk/file","title":"V-Box Version (8.0) UI Change"}
